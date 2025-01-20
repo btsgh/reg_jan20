@@ -18,8 +18,16 @@
   "icon": "arrow-down",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Firestore",
       "isDefault": true
+    },
+    {
+      "id": "Gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "DISTRICT",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
